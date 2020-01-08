@@ -4,7 +4,7 @@ A machine learning approach to beating facial image obfuscation (pixelation, blu
 
 Trained models are available in the `trained_models/` directory. You can use them in conjunction with the `demos/` to see our models in action. If required, read below to replicate the training process. Folder names are self-explanatory.
 
-Authors: [Prakhar Jain](https://github.com/prakhar171), [Harsh Karamchandani](https://github.com/harshk0525), Dhruv Agarwal (https://github.com/agdhruv)
+Authors: [Prakhar Jain](https://github.com/prakhar171), [Harsh Karamchandani](https://github.com/harshk0525), [Dhruv Agarwal](https://github.com/agdhruv)
 
 ## Dataset
 We use the Labelled Faces in the Wild (LFW) dataset from [here](http://vis-www.cs.umass.edu/lfw/#download). Download the dataset and place it in the root folder of the project in a folder named `lfw/`.
